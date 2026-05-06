@@ -1,0 +1,80 @@
+body {
+    font-family: 'Roboto', sans-serif ,'Raleway';
+    color: #2E2F42;
+    background-color: #FFFFFF;
+}
+
+.container{
+    width: 1200px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 0;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+}
+
+ul,
+ol{
+    list-style-type: none;
+}
+
+images {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+.color-accent {
+    color: #4D5AE5;
+}
+
+
+/*h1*/
+.main-title {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #FFFFFF;
+}
+/*h2*/
+.section-title {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1,11;
+    letter-spacing: 0.02em;
+    text-align: center;
+}
+
+.section-team {
+    background-color: #f4f4fd;
+}
+
+.team-item {
+    text-align: center;
+    background-color: #FFFFFF;
+}
+
+
+p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
